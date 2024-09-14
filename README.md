@@ -1,6 +1,4 @@
 
-### Template
-
 # Gerador de Histórias com IA
 
 ## 📒 Descrição
